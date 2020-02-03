@@ -6,5 +6,7 @@ Descriere: Aplicatia reprezinta o busola care, in functie de miscarile telefonul
 
 Aplicatia ruleaza: HTML, CSS, JavaScript. 
 
+![image description](https://github.com/ioanaa1998/Busola/blob/master/busola.png)
+
 
 
